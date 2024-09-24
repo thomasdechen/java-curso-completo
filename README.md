@@ -48,8 +48,8 @@ Compreensão avançada de padrões de projeto e boas práticas
 📈 Próximos Passos  
 Estou ansioso para aplicar esses conhecimentos em desafios reais e continuar aprendendo. Busco oportunidades para contribuir em projetos inovadores e crescer como desenvolvedor Java.  
 
-📬 Contato  
-[Thomas Dechen Ferreira]  
-Email: [dechendev@gmail.com]  
-LinkedIn: [https://www.linkedin.com/in/thomas-dechen/]  
-GitHub: [https://github.com/thomasdechen]  
+📬 Contato    
+Thomas Dechen Ferreira    
+Email: dechendev@gmail.com  
+LinkedIn: https://www.linkedin.com/in/thomas-dechen   
+GitHub: https://github.com/thomasdechen    
