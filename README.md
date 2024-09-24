@@ -1,6 +1,7 @@
 Curso Avançado de Java: Do Básico ao Profissional  
 
-🚀 Sobre este Repositório    
+🚀 Sobre este Repositório   
+
 Este repositório contém meus projetos e exercícios do curso "Programação Orientada a Objetos com Java", ministrado por um instrutor com mais de 20 anos de experiência em Java. O curso é reconhecido como o mais completo e líder de mercado na plataforma Udemy.  
 
 🎯 Objetivos do Curso  
@@ -46,6 +47,7 @@ Desenvolvimento de projetos reais e complexos
 Compreensão avançada de padrões de projeto e boas práticas  
 
 📈 Próximos Passos  
+
 Estou ansioso para aplicar esses conhecimentos em desafios reais e continuar aprendendo. Busco oportunidades para contribuir em projetos inovadores e crescer como desenvolvedor Java.  
 
 📬 Contato    
